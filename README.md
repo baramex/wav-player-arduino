@@ -1,5 +1,5 @@
 # wav-player-arduino
-Like a mp3 player, but with wav files...
+Like a mp3 player, but with wav files (in mono, 88 Kbit/s)...
 
 ### ⚠️ this is a version made in 2020 and not retouched since
 
