@@ -1,7 +1,7 @@
 # wav-player-arduino
 Like a mp3 player, but with wav files (in mono, 88 Kbit/s)...
 
-### ⚠️ this is a version made in 2020 and not retouched since
+### ⚠️ this is a version made in 2020 and not reviewed since
 
 ## infos ##
 [![](https://tokei.rs/b1/github/baramex/wav-player-arduino)]()<br/>
